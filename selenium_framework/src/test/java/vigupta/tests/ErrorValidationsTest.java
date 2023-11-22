@@ -36,6 +36,7 @@ public class ErrorValidationsTest extends BaseTest{
 		ProductCatalouge pc = lPage.loginApplication("vigupta.kws@gmail.com", "P@ssw0rd@94");
 
 		List<WebElement> products = pc.getProductList();
+		System.out.println(products);
 		pc.addProductToCart(productName);
 
 		CartPage cp = pc.goToCartPage();
