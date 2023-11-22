@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-9706c8b5-d530-4068-805f-cef858fc4571"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.521">
+    <properties></properties>
+
+
+
+            <testcase
+                name="OrderHistory"
+                time="0.576"
+                classname="vigupta.tests.SubmitOrderTest">
+            </testcase>
+            <testcase
+                name="submitOrder"
+                time="3.103"
+                classname="vigupta.tests.SubmitOrderTest">
+            </testcase>
+            <testcase
+                name="submitOrder"
+                time="2.842"
+                classname="vigupta.tests.SubmitOrderTest">
+            </testcase>
+</testsuite>
