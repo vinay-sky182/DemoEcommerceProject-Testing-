@@ -1,0 +1,8 @@
+vigupta\pageobjects\LandingPage.class
+vigupta\pageobjects\CartPage.class
+vigupta\pageobjects\OrderPage.class
+vigupta\abstractComponents\AbstractComponent.class
+vigupta\pageobjects\ProductCatalouge.class
+vigupta\resources\ExtentReporterNG.class
+vigupta\pageobjects\CheckoutPage.class
+vigupta\pageobjects\ConfirmationPage.class
