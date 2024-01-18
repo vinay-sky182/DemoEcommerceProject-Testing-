@@ -17,6 +17,7 @@ import vigupta.testComponents.BaseTest;
 public class SubmitOrderTest extends BaseTest {
 
 	String productName = "ZARA COAT 3";
+	
 
 	@Test(dataProvider="getData", groups = {"purchase"})
 	public void submitOrder(HashMap<String, String> input) throws IOException, InterruptedException {

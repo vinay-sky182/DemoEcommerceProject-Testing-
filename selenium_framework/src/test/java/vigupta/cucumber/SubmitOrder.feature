@@ -20,7 +20,7 @@
 
 # This is a featureFile written in 'Gherkin' language.
 # Scenario:- It is the thing which we need to test.
-# Scenario Outline:- It is used when Data Driven testing is required and we give the data in form of 
+# Scenario Outline:- It is used when Data parametirazation is required and we give the data in form of 
 #     Examples: 
 #       | name                 | password    | productName |
 #       | vigupta.kws@gmail.com| P@ssw0rd@94 | ZARA COAT 3 |

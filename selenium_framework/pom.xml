@@ -125,7 +125,7 @@
 							<version>3.2.2</version>
 							<configuration>
 								<includes>
-									<include>**/TestNGTestRunner.java</include>
+									<include>**\TestNGTestRunner.java</include>
 								</includes>
 							</configuration>
 						</plugin>
