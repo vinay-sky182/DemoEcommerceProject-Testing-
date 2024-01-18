@@ -1,2 +1,2 @@
 # DemoEcommerceProject-Testing-
-This is a practice project of ecommerce website 
+Practice Project using Data Driven Framework with TestNG, Maven, JaksonAPI, ExtentReport with use of Cucumber
